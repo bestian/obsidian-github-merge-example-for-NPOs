@@ -1,4 +1,10 @@
 # t-bd-github
+
+## 主要功能
+
+讓hive mind可以實作，而不會爆掉
+
+
 Example of Love
 
 
