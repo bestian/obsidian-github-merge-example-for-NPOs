@@ -42,7 +42,7 @@ https://ithelp.ithome.com.tw/articles/10280373]]
 
 主要貢獻者：
 
-黑客：釋聖號[https://github.com/](https://github.com/bestian)
+黑客：[唐宗浩／釋聖號(墨守成規的小小Be)](https://github.com/bestian)
 
 協力貢獻者：
 1. [唐鳳](https://github.com/audryt)
