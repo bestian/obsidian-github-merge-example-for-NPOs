@@ -26,14 +26,36 @@ https://ithelp.ithome.com.tw/articles/10280373
 
 ##（進階，若要往外分享，教別人使用／教師篇）
 
+
+1. 首先找到該NPG的網管員或資訊長
+2. 請資料長照這一篇的說明來設定[[
+https://ithelp.ithome.com.tw/articles/10280373]]
+
+3. 先教會一般用戶使用Obsidian(黑耀石)來創作個人的小小思考庫
+4. 再介紹何謂HIVE mind
+
+
+
+
+
 主要貢獻者：
 
 黑客：釋聖號[https://github.com/](https://github.com/bestian)
 
+
+
+
+
+
+
+
+
 協力貢獻者：
 1. AI：[Github Copilot](https://github.com/features/copilot)
-2. AI：[Github Copilot X](https://github.com/features/copilot)
+2. AI2：[Github Copilot X](https://github.com/features/copilot)
 3. [唐鳳](https://github.com/audryt)
+
+
 
 
 
