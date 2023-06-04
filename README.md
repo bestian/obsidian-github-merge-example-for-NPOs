@@ -21,11 +21,7 @@ Example of Love
 專案先導者的初始化安裝方法：
 https://ithelp.ithome.com.tw/articles/10280373
 
-IT幫忙平台上的     13th鐵人賽       黑客：朱騏
-團隊鄉：自虐病友團
-
-2021-10-11 11:17:32   (7488 瀏覽)
-
+黑客：朱騏
 
 
 ##（進階，若要往外分享，教別人使用／教師篇）
@@ -38,6 +34,13 @@ IT幫忙平台上的     13th鐵人賽       黑客：朱騏
 1. 黑客：唐鳳
 2. AI：[Github Copilot](https://github.com/features/copilot)
 2. AI：[Github Copilot X](https://github.com/features/copilot)
+
+
+
+主要迴向NPOs：
+1. 社團法人台灣家庭暴力暨性犯罪處遇協會
+2. 台東永明佛寺
+3. 社團法人自主學習促進會
 
 
 
