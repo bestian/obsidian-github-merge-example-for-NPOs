@@ -1,4 +1,4 @@
-# t-bd-github
+# 耀星寶珠共識凝聚器（obsidian-github-merge-example-for-NPOs）
 
 ## 主要功能
 
