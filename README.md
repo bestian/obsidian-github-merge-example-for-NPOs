@@ -1,5 +1,8 @@
-# obsidian-github-merge-example-for-NPOs
-obsidian-github-merge-example-for-NGOs 
+# 〈黑石貓核融合素食調理機〉(obsidian-github-merge-example-for-NGOs 
+)
+
+〈黑石貓核融合素食調理機〉(obsidian-github-merge-example-for-NPOs
+)
 
 〈黑石貓核融合素食調理機〉
 
