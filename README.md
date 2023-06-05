@@ -1,10 +1,10 @@
-# 〈黑石貓核融合素食調理機〉(obsidian-github-merge-example-for-NGOs 
+# 〈黑貓融合素食調理機〉(obsidian-github-merge-example-for-NGOs 
 )
 
-〈黑石貓核融合素食調理機〉(obsidian-github-merge-example-for-NPOs
+〈黑貓融合素食調理機〉(obsidian-github-merge-example-for-NPOs
 )
 
-〈黑石貓核融合素食調理機〉
+〈黑貓融合素食調理機〉
 
 It is a tutorial 
 它是一個導覽說明
