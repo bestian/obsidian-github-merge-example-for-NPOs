@@ -1,8 +1,22 @@
 # obsidian-github-merge-example-for-NPOs
 obsidian-github-merge-example-for-NGOs 
 
-黑石貓融合大能非營利綜合調理機。
+〈黑石貓核融合素食調理機〉
 
 
-is  a tutorial that shows how to marge obsidian and github in to a very simple, very powerful, very cheap collaborative tool for NPOs
+It is a tutorial 
+它是一個導覽說明
 
+that shows how to marge 
+
+如何以
+
+黑曜石(Obsidian)和GitHub
+
+進行綜合設定
+請
+成為
+
+一個很簡單強大、安全
+又非常便宜（如果無特殊需要）
+的組織協作工具（商業可用，但更合適非營利組織）
