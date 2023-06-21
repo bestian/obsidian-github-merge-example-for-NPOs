@@ -1,5 +1,5 @@
 # 〈黑貓融合素食調理機〉
-# (obsidian-github-merge-example-for-NGOs 
+# (obsidian-github-merge-example-for-NPOs 
 )
 
 〈黑貓融合素食調理機〉(obsidian-github-merge-example-for-NPOs
@@ -29,9 +29,14 @@ that shows how to marge
 
   ### 給IT(資訊長、小編、雜工。。。)
 
+see this [https://ithelp.ithome.com.tw/articles/10280373]
+
 
 ## 給非營利組織(宗教性)之善巧
 
   ### 給IT(資訊長、小編、雜工。。。)
+
+
+see this [https://ithelp.ithome.com.tw/articles/10280373]
 
   
