@@ -1,49 +1,4 @@
 
-# Obsidian-GitHub Merge Example
-
-## Note 1!!! If you're not familiar with Markdown syntax, please refer to this guide (https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
-
-## Note 2!!! Custom shortcuts are only available in the US region. In other regions, you cannot customize shortcuts. If you reduce the font size and can't change it back, you'll need to use CSS settings. (To be continued)
-
-For Lov0 editor, please follow the official website [https://help.obsidian.md/Home] or the Chinese IT support [https://ithelp.ithome.com.tw/articles/10281490?sc=iThelpR]
-
-(Wishing everyone to transition from seafood vegetarian to eco-friendly vegetarian... to vegan...)
-
-
-(Obsidian-GitHub Merge Example for NPOs)
-
-
-(The name comes from "Obsedian" and "GitHub" merged into "Black Cat Vegetarian Processor")
-
-
-=======
-
-
-It is a tutorial that shows how to merge Obsidian and GitHub to create a simple, powerful, secure, and cost-effective (unless there are special requirements) collaborative tool for organizations (suitable for non-profit organizations but can be used for commercial purposes).
-
-
-Technical Aspect
-
-For Non-Profit Organizations (Self-learning)
-
-For IT (IT managers, editors, general workers...)
-
-See this... [https://help.obsidian.md/Getting+started/Download+and+install+Obsidian]
-
-
-See this... [https://ithelp.ithome.com.tw/articles/10280373]
-
-
-For Non-Profit Organizations (Religious)
-
-For IT (IT managers, editors, general workers...)
-
-See this... [https://ithelp.ithome.com.tw/articles/10280373]
-
-
-
-
-
 # 黑石貓中隊試飛
 # (obsidian-github-merge-example 
 
@@ -65,10 +20,11 @@ See this... [https://ithelp.ithome.com.tw/articles/10280373]
 
 
 
-或中文的IT幫忙[https://ithelp.ithome.com.tw/articles/10281490?sc=iThelpR]
+特別感謝：
 
-
-(祝福各位從海鮮素 > 環保素 > ... 全素...)
+1. IT幫忙[https://ithelp.ithome.com.tw/articles/10281490?sc=iThelpR]
+2. 所有家人
+3. 素食習慣
 
 (黑貓融合素食調理機〉(obsidian-github-merge-example-for-NPOs)
 
@@ -111,5 +67,48 @@ see this [https://ithelp.ithome.com.tw/articles/10280373]
 
 
 see this [https://ithelp.ithome.com.tw/articles/10280373]
+
+## Obsidian-GitHub Merge Example
+
+### Note 1!!! If you're not familiar with Markdown syntax, please refer to this guide (https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
+
+### Note 2!!! Custom shortcuts are only available in the US region. In other regions, you cannot customize shortcuts. If you reduce the font size and can't change it back, you'll need to use CSS settings. (To be continued)
+
+For Lov0 editor, please follow the official website [https://help.obsidian.md/Home] or the Chinese IT support [https://ithelp.ithome.com.tw/articles/10281490?sc=iThelpR]
+
+(Wishing everyone to transition from seafood vegetarian to eco-friendly vegetarian... to vegan...)
+
+
+(Obsidian-GitHub Merge Example for NPOs)
+
+
+(The name comes from "Obsedian" and "GitHub" merged into "Black Cat Vegetarian Processor")
+
+
+=======
+
+
+It is a tutorial that shows how to merge Obsidian and GitHub to create a simple, powerful, secure, and cost-effective (unless there are special requirements) collaborative tool for organizations (suitable for non-profit organizations but can be used for commercial purposes).
+
+
+Technical Aspect
+
+For Non-Profit Organizations (Self-learning)
+
+For IT (IT managers, editors, general workers...)
+
+See this... [https://help.obsidian.md/Getting+started/Download+and+install+Obsidian]
+
+
+See this... [https://ithelp.ithome.com.tw/articles/10280373]
+
+
+For Non-Profit Organizations (Religious)
+
+For IT (IT managers, editors, general workers...)
+
+See this... [https://ithelp.ithome.com.tw/articles/10280373]
+
+
 
   
