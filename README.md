@@ -1,5 +1,9 @@
 # 〈黑貓融合素食調理機〉
 # (obsidian-github-merge-example-for-NPOs 
+
+
+(祝福各位從海鮮素 > 環保素 > ... 全素...)
+
 )
 
 〈黑貓融合素食調理機〉(obsidian-github-merge-example-for-NPOs
