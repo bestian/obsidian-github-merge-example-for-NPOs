@@ -2,7 +2,17 @@
 # (obsidian-github-merge-example-for-NPOs 
 
 
-## 從頭練功
+- obsidian的優點
+- github的優點
+
+
+## 注意!!!
+
+除了US地區，其他地方不能自訂快捷鍵。所以字調小了會改不回來。
+這時，要使用 CSS 設定。(待續)
+
+
+## 給lov0小編
 
 請跟隨官網[https://help.obsidian.md/Home]
 
