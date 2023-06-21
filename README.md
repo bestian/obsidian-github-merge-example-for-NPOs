@@ -1,4 +1,4 @@
-# 黑石貓中隊試飛〉
+# 黑石貓中隊試飛
 # (obsidian-github-merge-example 
 
 - obsidian的優點
