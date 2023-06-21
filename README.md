@@ -1,5 +1,5 @@
 
-# 黑石貓中隊試飛
+# 黑石貓試飛
 # (obsidian-github-merge-example 
 
 - obsidian的優點：可整合大量資料、協助哲學思辦。
@@ -30,8 +30,8 @@
 
 (黑貓融合素食調理機〉
 
-
-名稱由來：黑躍石(obsedian+Github小貓)
+ 
+名稱由來：黑躍石(obsedian) + Github(小貓)
 
 =======
 
