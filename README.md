@@ -1,12 +1,13 @@
-# 〈黑貓融合素食調理機〉
+# 〈黑貓素食機〉
 # (obsidian-github-merge-example-for-NPOs 
-
 
 - obsidian的優點
 - github的優點
 
+## 注意1!!!
+若你還不會markdown語法，請先見此(https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
 
-## 注意!!!
+#)# 注意2!!!
 
 除了US地區，其他地方不能自訂快捷鍵。所以字調小了會改不回來。
 這時，要使用 CSS 設定。(待續)
