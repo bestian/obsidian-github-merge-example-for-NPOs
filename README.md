@@ -2,6 +2,11 @@
 # (obsidian-github-merge-example-for-NPOs 
 
 
+從頭練功
+
+請跟隨[https://ithelp.ithome.com.tw/articles/10281490?sc=iThelpR]
+
+
 (祝福各位從海鮮素 > 環保素 > ... 全素...)
 
 )
