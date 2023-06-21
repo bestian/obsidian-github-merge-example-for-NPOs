@@ -33,6 +33,9 @@ that shows how to marge
 
   ### 給IT(資訊長、小編、雜工。。。)
 
+see this ... ]https://help.obsidian.md/Getting+started/Download+and+install+Obsidian]
+
+
 see this [https://ithelp.ithome.com.tw/articles/10280373]
 
 
