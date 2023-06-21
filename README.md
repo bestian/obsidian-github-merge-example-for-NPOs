@@ -4,7 +4,7 @@
 
 
 ## 先備下載：
-- [Github]_
+- [Github](https://github.com)
 - github的優點：可以做版本控製，為了讓NPO或企業組織可以非同步工作，再進整併。
 - [Obsidiain]
 - obsidian的優點：可整合大量資料、協助哲學思辦。
