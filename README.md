@@ -2,8 +2,8 @@
 # 黑石貓中隊試飛
 # (obsidian-github-merge-example 
 
-- obsidian的優點
-- github的優點
+- obsidian的優點：可整合大量資料、協助哲學思辦。
+- github的優點：可以做版本控製，為了讓NPO或企業組織可以非同步工作，再進整併。
 
 ## 注意1!!!
 若你還不會markdown語法，請先見此(https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
