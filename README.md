@@ -9,14 +9,13 @@
 - [Obsidiain]
 - obsidian的優點：可整合大量資料、協助哲學思辦。
 
-## 注意1!!!
+## 開啟一個新知識庫
+- (https://help.obsidian.md/Getting+started/Create+a+vault)
+
+## 注意1
 若你還不會markdown語法，請先見此(https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
 
-
-## 注意1!!!
-若你還不會markdown語法，請先見此(https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
-
-#)# 注意2!!!
+## 注意2
 
 除了US地區，其他地方不能自訂快捷鍵。所以字調小了會改不回來。
 這時，要使用 CSS 設定。(待續)
